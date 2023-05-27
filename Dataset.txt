@@ -1,0 +1,2 @@
+Dataset can be seen on:
+https://www.kaggle.com/competitions/dog-breed-identification/data
